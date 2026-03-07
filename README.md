@@ -7,8 +7,12 @@
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em lógica de programação e desenvolvimento web. Tenho habilidade com HTML5, CSS3, JavaScript e Java, além de familiaridade com versionamento de código via Git. Sou organizado, atento a detalhes e comprometido com aprendizado contínuo. Busco minha primeira oportunidade como estagiário em desenvolvimento de software para aplicar e expandir meus conhecimentos técnicos.</p>
 
 ###
+---
+<p align="center">Email para contato:<br>contato.elias021021@gmail.com</p>
 
-<p align="center">---</p>
+###
+
+---
 
 ###
 
@@ -36,10 +40,10 @@
 
 <br clear="both">
 
-[<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/elias-araujo-rodrigues-6687ba355/)
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+<div align="center">
+  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-araujo-rodrigues-6687ba355/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/elias_apenas_/)
 </div>
 
 ###
@@ -52,8 +56,11 @@
 
 ###
 
+<br>
 
-<h3 align="left">🔥   My Status :</h3>
+<h3 align="center">Minhas estatísticas 🥶 :</h3>
+
+<br>
 
 ###
 
