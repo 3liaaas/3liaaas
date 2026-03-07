@@ -46,9 +46,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elias Araújo Rodrigues/Elias Araújo Rodrigues/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elias Araújo Rodrigues/Elias Araújo Rodrigues/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elias Araújo Rodrigues/Elias Araújo Rodrigues/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3liaaas/3liaaas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3liaaas/3liaaas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3liaaas/3liaaas/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
