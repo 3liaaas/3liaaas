@@ -1,6 +1,9 @@
 <br clear="both">
 
 <h1 align="center">Eaí, sou o Elias!✌️</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Esse+dev+esta+sendo+desenvolvido...;" />
+</div>
 
 ###
 
@@ -56,25 +59,16 @@
 
 ###
 
-<br>
-
 <h3 align="center">Minhas estatísticas 🥶 :</h3>
-
-<br>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=3liaaas&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=3liaaas&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
 
 
