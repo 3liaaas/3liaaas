@@ -1,5 +1,5 @@
-<h1 align="center">Olá, Sou Elias Araújo Rodrigues<br>Um Dev em Desenvolvimento</h1>
 
+![Image](https://github.com/user-attachments/assets/f5a560d4-3a2a-4e40-8383-423da9fea052)
 ###
 
 <p align="center">---</p>
