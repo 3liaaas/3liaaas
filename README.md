@@ -57,7 +57,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3liaaas/3liaaas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3liaaas/3liaaas/output/pacman-contribution-graph.svg">
 </picture>
-mailto:contato.elias021021@gmail.com?body=Me%20mande%20um%20email!
+
 ###
 
 <h3 align="center">Minhas estatísticas 🥶 :</h3>
