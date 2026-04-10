@@ -2,7 +2,7 @@
 
 <h1 align="center">Eaí, sou o Elias!✌️</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Esse+dev+esta+sendo+desenvolvido...;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Este+dev+esta+sendo+desenvolvido...;" />
 </div>
 
 ###
